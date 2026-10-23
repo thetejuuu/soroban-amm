@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1159-twap-consumer-tracked-pools-can-t-be-removed",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1159-twap-consumer-tracked-pools-can-t-be-removed": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1159-twap-consumer-tracked-pools-can-t-be-removed",
+    "origin"
+  ]
+}
